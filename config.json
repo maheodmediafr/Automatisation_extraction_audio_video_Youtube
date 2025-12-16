@@ -1,0 +1,25 @@
+{
+    "watch_frequency": 120,
+    "watch_paths": [
+        "XML_IN"
+    ],
+    "max_recent_videos": 1,
+    "youtube_channels": [
+        {
+            "id": "UCHQda5vLxrH0Ff0I0kMq4zw",
+            "name": "Kobini"
+        },
+        {
+            "id": "UCAcAnMF0OrCtUep3Y4M-ZPw",
+            "name": "Hugo Decrypte"
+        },
+        {
+            "id": "UCIh7PDUAP226Pa_NtjN9Jqw",
+            "name": "Legend"
+        },
+        {
+            "id": "UCUNv0EUZYhuelHXWoFLTqwg",
+            "name": "Vald"
+        }
+    ]
+}
