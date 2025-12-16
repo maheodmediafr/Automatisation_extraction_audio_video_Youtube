@@ -21,8 +21,8 @@
 
 1. Cloner le dépôt
 
-git clone https://github.com/votre-utilisateur/youtube-monitor.git
-cd youtube-monitor
+git clone https://github.com/maheodmediafr/Automatisation_extraction_audio_video_Youtube
+cd Automatisation_extraction_audio_video_Youtube
 
 2. Installer les dépendances
 
